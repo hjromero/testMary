@@ -57,7 +57,6 @@ import 'core-js/es7/reflect';
 import 'zone.js/dist/zone';  // Included with Angular CLI.
 
 
-
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
@@ -71,3 +70,8 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
  * Need to import at least one locale-data with intl.
  */
 // import 'intl/locale-data/jsonp/en';
+
+/**
+ * Hammer js to material
+ */
+import 'hammerjs/hammer';
